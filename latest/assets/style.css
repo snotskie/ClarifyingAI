@@ -1,0 +1,9 @@
+.docs-search, .docs-edit-link {
+    display: none
+}
+
+@media print {
+    header, .docs-footer {
+        display: none
+    }
+ }
