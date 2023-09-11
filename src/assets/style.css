@@ -1,9 +1,9 @@
 .docs-search, .docs-edit-link {
-    display: none
+    display: none !important
 }
 
 @media print {
     header, .docs-footer {
-        display: none
+        display: none !important
     }
  }
