@@ -1,7 +1,3 @@
-.docs-search, .docs-edit-link {
-    display: none !important
-}
-
 @media print {
     header, .docs-footer {
         display: none !important
