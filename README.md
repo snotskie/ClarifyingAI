@@ -1,1 +1,1 @@
-# ClarifyingAI
+# GroundingAI
