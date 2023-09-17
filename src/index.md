@@ -68,7 +68,9 @@ You may ask any questions about the research at any time. If you have questions 
 
 ## Consent Form
 
-Your participation is completely voluntary. Your signature indicates that you have read this consent form, had an opportunity to ask questions about your participation in this research, and voluntary consent to participate. You will receive a copy of this form for your records.
+Your participation is completely voluntary. You may provide your consent orally or by completing the form below.
+
+Your signature indicates that you have read this consent form, had an opportunity to ask questions about your participation in this research, and voluntary consent to participate. You will receive a copy of this form for your records.
 
 Your name (please print): _____________________
 
