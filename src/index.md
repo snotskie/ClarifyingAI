@@ -1,4 +1,4 @@
-# Clarifying AI Beliefs, Ethics, Social Dynamics, and Collaboration Across Stakeholders and Educators
+# Grounding AI: Beliefs, Ethics, and Social Change
 
 ## Principal Investigator
 

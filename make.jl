@@ -3,7 +3,7 @@
 using Documenter
 
 makedocs(
-    sitename="Clarifying AI",
+    sitename="Grounding AI",
     authors="Mariah A. Knowles <mariah.knowles@wisc.edu>",
     format=Documenter.HTML(assets=[
         "assets/script.js",
