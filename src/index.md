@@ -34,7 +34,7 @@ Interviews will only be recorded if automatic transcript quality is poor, and al
 
 We will quote participants directly without using their name or other identifiable information, such as the names of their location or employer. Participants may choose not to be quoted directly. 
 
-## Benefits and Risks
+## Benefits
 
 While there are no direct benefits to participants for participating in this study, their participation may indirectly benefit others by helping us identify themes as the basis for further research.
 
